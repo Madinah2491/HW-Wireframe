@@ -28,7 +28,7 @@ aside  {
    background-color: white;
    width: 365px;
    padding: 20px;
-   height: 200px;
+   height: 284.5px;
    margin-left: 30px;
    margin-bottom: 20px;
    float: right;
@@ -53,16 +53,16 @@ section {
         h1   {
             background-color: white;
             color: #777;
-            width: 50%;
-            height: 50px;
+            width: 75%;
+            padding: 10px;
             margin-bottom: 10px;
         }
 
         p   {
             background-color: white;
             color: #777;
-            padding: 50 px;
-            width: 40%;
+            width: 75%;
+            padding: 10px;
         }
 
 footer  {
